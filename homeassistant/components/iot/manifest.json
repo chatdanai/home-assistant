@@ -1,0 +1,10 @@
+{
+  "domain": "iot",
+  "name": "iot",
+  "documentation": "https://www.home-assistant.io/components/pushbullet",
+  "requirements": [
+    "PyJWT==1.7.1"
+  ],
+  "dependencies": [],
+  "codeowners": []
+}
